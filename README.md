@@ -9,7 +9,7 @@ Kevin Infante Hernández
 * Ir al directorio "cca_taller1"
 `cd cca_taller1`
 * Crear ambiente virtual usando
-`python3 -m venv "taller1"`
+`python -m venv "taller1"`
 * Activar el ambiente virtual
 `source taller1/bin/activate`
 * Instalar dependencias usando
