@@ -4,6 +4,10 @@
 * Kevin Infante Hernández
 
 ## **Instrucciones ejecución**
+* Descargar el codigo de esta entrega
+`git clone https://github.com/kevininhe/cca_taller1.git`
+* Ir al directorio "cca_taller1"
+`cd cca_taller1`
 * Crear ambiente virtual usando
 `python3 -m venv "taller1"`
 * Activar el ambiente virtual
