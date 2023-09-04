@@ -22,6 +22,6 @@ Kevin Infante Hernández
 * Ejecutar secuencialmente
 
 ## **Estructura archivos**
-* **data/listings.csv.gz**: Corresponde a la información de propiedades de Airbnb de Argentina
+* **data/listings.csv.gz**: Corresponde a la información de propiedades de Airbnb de Buenos Aires - Argentina
 * **Taller1.ipynb**: Notebook de la entrega
 * **Taller 1 - Análisis Explloratorio de Datos.pdf**: Información en formato PDF solicitada para esta entrega
