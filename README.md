@@ -1,7 +1,7 @@
 # **Taller 1 - Ciencia de datos aplicada**
 ## **Análisis exploratorio de datos**
 
-* Kevin Infante Hernández
+Kevin Infante Hernández
 
 ## **Instrucciones ejecución**
 * Descargar el codigo de esta entrega
@@ -21,5 +21,7 @@
 * En Jupyter Notebook, ir a Kernel -> Change Kernel -> taller1
 * Ejecutar secuencialmente
 
-## **Documento Taller**
-El archivo "Taller 1 - Análisis Explloratorio de Datos.pdf" corresponde a la información en formato PDF solicitada para esta entrega
+## **Estructura archivos**
+* **data/listings.csv.gz**: Corresponde a la información de propiedades de Airbnb de Argentina
+* **Taller1.ipynb**: Notebook de la entrega
+* **Taller 1 - Análisis Explloratorio de Datos.pdf**: Información en formato PDF solicitada para esta entrega
