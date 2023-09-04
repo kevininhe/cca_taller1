@@ -18,4 +18,4 @@
 * Ejecutar secuencialmente
 
 ## **Documento Taller**
-El archivo Taller 1 - Análisis Explloratorio de Datos corresponde a la información en formato PDF solicitada para esta entrega
+El archivo "Taller 1 - Análisis Explloratorio de Datos.pdf" corresponde a la información en formato PDF solicitada para esta entrega
