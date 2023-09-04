@@ -24,7 +24,6 @@ click-plugins==1.1.1
 cligj==0.7.2
 comm==0.1.4
 commonmark==0.9.1
-conda==22.9.0
 confuse==2.0.1
 contourpy==1.0.6
 cycler==0.11.0
